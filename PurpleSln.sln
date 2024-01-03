@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicAlbumAPI", "MusicAlbumAPI\MusicAlbumAPI.csproj", "{58C26ED8-5F08-47EE-A29C-4DCBCA7F1E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xunitTest", "xunitTest\xunitTest.csproj", "{7A8D0AAD-ACDB-42C6-B9D6-D5A6DDDF5916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C26ED8-5F08-47EE-A29C-4DCBCA7F1E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C26ED8-5F08-47EE-A29C-4DCBCA7F1E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C26ED8-5F08-47EE-A29C-4DCBCA7F1E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C26ED8-5F08-47EE-A29C-4DCBCA7F1E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8D0AAD-ACDB-42C6-B9D6-D5A6DDDF5916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8D0AAD-ACDB-42C6-B9D6-D5A6DDDF5916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8D0AAD-ACDB-42C6-B9D6-D5A6DDDF5916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8D0AAD-ACDB-42C6-B9D6-D5A6DDDF5916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56DFA1D4-9770-43D5-9087-67EA83720490}
+	EndGlobalSection
+EndGlobal
